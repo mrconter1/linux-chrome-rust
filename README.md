@@ -1,7 +1,7 @@
 # linux-chrome-rust
 linux-chrome-rust
 
-Launch a fresh Google Chrome on Linux in **rust**
+Launch a fresh Google Chrome on Linux in **Rust**
 
 ## Example
 
