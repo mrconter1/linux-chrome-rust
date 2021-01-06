@@ -5,7 +5,7 @@ Launch a fresh Google Chrome on Linux in **rust**
 
 ## Example
 
-```rust
+```bash
 rustc run.rs && ./run
 ```
 
